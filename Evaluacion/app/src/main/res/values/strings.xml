@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Evaluacion</string>
+    <string name="titlle">Estudiantes</string>
+    <string name="primerBoton">Nuevo Estudiante</string>
+    <string name="segundoBoton">Lista de Estudiantes</string>
+    <string name="data">Mis Datos</string>
+    <string name="name">Luis Antonio Aviles Luna</string>
+    <string name="nombre">Nombre</string>
+    <string name="Codigo">Codigo</string>
+    <string name="Materia">Materia</string>
+    <string name="primer"> 1 Parcial</string>
+    <string name="segundo">2 Parcial</string>
+    <string name="tercero">3 Parcial</string>
+    <string name="hnombre">name-lastname</string>
+    <string name="hcode">AL17-I04-002</string>
+    <string name="hmateria">name materia</string>
+    <string name="addn1">add n1</string>
+    <string name="addn2">add n2</string>
+    <string name="add3">add n3</string>
+    <string name="add">Ingresar Nuevo Estudiante</string>
+    <string name="btnGuardar">Guardar</string>
+
+</resources>
